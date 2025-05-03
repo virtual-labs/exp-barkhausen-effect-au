@@ -2,37 +2,39 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "Permanent dipole moment consists of the following angular momentum",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Orbital angular momentum of electron",
+        "b": "Electron spin angular momentum",
+        "c": "Nuclear spin angular momentum",
+        "d": "All the above"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "a",
+      
+      "correctAnswer": "d",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "Ferromagnetic materials or ferrites are obtained from",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Copper",
+        "b": "Zinc",
+        "c": "Aluminium",
+        "d": "None of these"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
+    
       "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+     {
+      "question": "What are domains?",
+      "answers": {
+        "a": "Small regions inside the ferromagnetic solid which are spontaneously magnetized.",
+        "b": "Walls or boundaries of the ferromagnetic solids.",
+        "c": "The ferromagnetic solid itself",
+        "d": "None of these"
+      },
+    
+      "correctAnswer": "a",
       "difficulty": "beginner"
     }
   ]
