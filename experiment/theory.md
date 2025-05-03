@@ -4,7 +4,7 @@ A ferromagnet has a spontaneous magnetic moment. The atoms (or molecules) of fer
  
 Magnetization could be explained based on Domain theory. Weiss postulated the existence of domains within the ferromagnetic material. Within these domains the material is magnetized to saturation but the direction of magnetization differs from domain to domain, resulting in a zero resultant magnetization of the specimen. The process of magnetization consists in rotating the different domains in the direction of applied external field so that the specimen exhibits a net magnetization externally.
 
-<table>
+<table border=0>
   <tr>
     <td align="center"><img src="./images/figure1.jpg" width="300"></td>
     <td align="center"><img src="./images/figure2.jpg" width="300"></td>
